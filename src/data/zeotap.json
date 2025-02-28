@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Integrating data with Zeotap",
+    "content": "To integrate your data with Zeotap: 1. Log in to your Zeotap CDP account. 2. Navigate to the Connections section. 3. Select 'Add New Connection' and choose your data source. 4. Configure the connection parameters according to your data source. 5. Set up the data mapping to match your schema. 6. Schedule the data import frequency. 7. Activate the connection to start importing data.",
+    "url": "https://docs.zeotap.com/home/en-us/connections/",
+    "platform": "zeotap"
+  },
+  {
+    "title": "Creating a segment in Zeotap",
+    "content": "To create a segment in Zeotap: 1. Go to the Audience section in your Zeotap CDP. 2. Click on 'Create Segment'. 3. Define your segment criteria using the segment builder interface. 4. You can use user attributes, behaviors, and events. 5. Preview your segment size and composition. 6. Save and publish your segment for activation across channels.",
+    "url": "https://docs.zeotap.com/home/en-us/audiences/",
+    "platform": "zeotap"
+  },
+  {
+    "title": "Implementing Zeotap's web SDK",
+    "content": "To implement Zeotap's web SDK: 1. Log in to your Zeotap CDP account. 2. Go to the Implementation section. 3. Copy the SDK initialization code. 4. Paste the code in the <head> section of your website. 5. Configure the SDK options according to your requirements. 6. Start tracking events using the SDK's tracking methods. 7. User data will be automatically collected and sent to Zeotap.",
+    "url": "https://docs.zeotap.com/home/en-us/sdk/web/",
+    "platform": "zeotap"
+  },
+  {
+    "title": "Setting up a destination in Zeotap",
+    "content": "To set up a destination in Zeotap: 1. Navigate to the Destinations section in your Zeotap CDP. 2. Click 'Add Destination' and select the desired platform. 3. Configure the connection settings for the destination. 4. Map your data and segments to the destination's expected format. 5. Set up the activation schedule. 6. Activate the destination to start sending data and segments.",
+    "url": "https://docs.zeotap.com/home/en-us/destinations/",
+    "platform": "zeotap"
+  },
+  {
+    "title": "Using Zeotap's identity resolution",
+    "content": "To use Zeotap's identity resolution: 1. Ensure you're collecting user identifiers across channels. 2. Configure the identity settings in your Zeotap CDP account. 3. Map your identifiers to Zeotap's identity space. 4. Set up the identity resolution rules. 5. The system will automatically create unified customer profiles by matching identifiers across channels and devices.",
+    "url": "https://docs.zeotap.com/home/en-us/identity/",
+    "platform": "zeotap"
+  }
+]

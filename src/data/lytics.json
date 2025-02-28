@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Building an audience segment in Lytics",
+    "content": "To build an audience segment in Lytics: 1. Navigate to the Audiences section in your Lytics account. 2. Click 'Create Audience'. 3. Define your audience criteria using the segment builder. 4. You can use behavioral data, user attributes, and content affinities. 5. Preview your audience to see estimated size. 6. Save and activate your audience for use in campaigns or exports.",
+    "url": "https://docs.lytics.com/product/audiences/",
+    "platform": "lytics"
+  },
+  {
+    "title": "Setting up a data stream in Lytics",
+    "content": "To set up a data stream in Lytics: 1. Go to the Data section in your Lytics account. 2. Select 'Add Stream' and choose your data source type. 3. Configure the connection settings for your data source. 4. Map the incoming data fields to Lytics' user profile fields. 5. Set up any necessary transformations. 6. Save and activate the stream to start collecting data.",
+    "url": "https://docs.lytics.com/product/data/streams/",
+    "platform": "lytics"
+  },
+  {
+    "title": "Implementing the Lytics JavaScript tag",
+    "content": "To implement the Lytics JavaScript tag: 1. Log in to your Lytics account. 2. Go to the Implementation section. 3. Copy the JavaScript tag code. 4. Paste the code in the <head> section of your website. 5. Customize the configuration options as needed. 6. The tag will automatically start collecting user behavior data once implemented.",
+    "url": "https://docs.lytics.com/product/channels/web/",
+    "platform": "lytics"
+  },
+  {
+    "title": "Creating a campaign in Lytics",
+    "content": "To create a campaign in Lytics: 1. Navigate to the Campaigns section in your Lytics account. 2. Click 'Create Campaign'. 3. Select the campaign type (web, email, etc.). 4. Choose the audience segment to target. 5. Configure the campaign content and settings. 6. Set up A/B testing if desired. 7. Activate the campaign to start delivering personalized experiences.",
+    "url": "https://docs.lytics.com/product/campaigns/",
+    "platform": "lytics"
+  },
+  {
+    "title": "Using Lytics content recommendations",
+    "content": "To use Lytics content recommendations: 1. Ensure your content is being tracked by Lytics. 2. Navigate to the Recommendations section. 3. Create a new recommendation model. 4. Configure the model settings and content filters. 5. Preview the recommendations. 6. Implement the recommendation API on your website using the provided code snippets. 7. Personalized content recommendations will be displayed to your users.",
+    "url": "https://docs.lytics.com/product/channels/web/content-recommendations/",
+    "platform": "lytics"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Creating a user profile in mParticle",
+    "content": "To create a user profile in mParticle: 1. Implement the mParticle SDK in your application. 2. Use the identify method to associate a user with a unique ID. 3. Add user attributes using the setUserAttribute method. 4. Set user identities using the setUserIdentity method. 5. User profiles are automatically created and updated as users interact with your application.",
+    "url": "https://docs.mparticle.com/developers/sdk/web/users/",
+    "platform": "mparticle"
+  },
+  {
+    "title": "Setting up an input in mParticle",
+    "content": "To set up an input in mParticle: 1. Log in to your mParticle dashboard. 2. Navigate to Setup > Inputs. 3. Click 'Add Input' and select the input type. 4. Configure the input settings according to your data source. 5. Save the configuration and obtain the API key and secret. 6. Implement the input in your application using the provided credentials.",
+    "url": "https://docs.mparticle.com/guides/getting-started/",
+    "platform": "mparticle"
+  },
+  {
+    "title": "Implementing event tracking in mParticle",
+    "content": "To implement event tracking in mParticle: 1. Initialize the mParticle SDK in your application. 2. Create custom event types using the logEvent method. 3. Include relevant event attributes and custom flags. 4. For commerce events, use the logCommerce methods. 5. For screen views, use the logScreenView method. 6. Events are automatically batched and sent to the mParticle platform.",
+    "url": "https://docs.mparticle.com/developers/sdk/web/event-tracking/",
+    "platform": "mparticle"
+  },
+  {
+    "title": "Setting up an output in mParticle",
+    "content": "To set up an output in mParticle: 1. Log in to your mParticle dashboard. 2. Navigate to Setup > Outputs. 3. Click 'Add Output' and select the desired integration. 4. Configure the output settings according to the integration requirements. 5. Map your data to the output's expected format. 6. Activate the output to start sending data to the destination.",
+    "url": "https://docs.mparticle.com/guides/platform-guide/outputs/",
+    "platform": "mparticle"
+  },
+  {
+    "title": "Creating an audience in mParticle",
+    "content": "To create an audience in mParticle: 1. Go to the Audiences section in your mParticle dashboard. 2. Click 'Create Audience'. 3. Define your audience criteria using user attributes, behaviors, and events. 4. Set the audience calculation frequency. 5. Select the outputs where you want to send this audience. 6. Save and activate the audience to start populating it with users.",
+    "url": "https://docs.mparticle.com/guides/platform-guide/audiences/",
+    "platform": "mparticle"
+  }
+]

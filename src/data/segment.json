@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Setting up a new source in Segment",
+    "content": "To set up a new source in Segment: 1. Log in to your Segment workspace. 2. Navigate to Sources > Add Source. 3. Select the type of source you want to add. 4. Follow the configuration steps for your specific source type. 5. Once configured, Segment will provide you with the necessary code snippets or API keys to start sending data.",
+    "url": "https://segment.com/docs/connections/sources/",
+    "platform": "segment"
+  },
+  {
+    "title": "Creating a destination in Segment",
+    "content": "To create a destination in Segment: 1. Log in to your Segment workspace. 2. Navigate to Destinations > Add Destination. 3. Search for and select the destination you want to add. 4. Connect the destination to a source. 5. Configure the destination-specific settings. 6. Enable the destination when you're ready to start sending data.",
+    "url": "https://segment.com/docs/connections/destinations/",
+    "platform": "segment"
+  },
+  {
+    "title": "Implementing Segment in a web application",
+    "content": "To implement Segment in a web application: 1. Create a source in your Segment workspace. 2. Get your write key from the source settings. 3. Add the Segment snippet to your website's <head> tag. 4. Replace YOUR_WRITE_KEY with your actual write key. 5. Start tracking events using analytics.track() and identifying users with analytics.identify().",
+    "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/",
+    "platform": "segment"
+  },
+  {
+    "title": "Using Segment's tracking API",
+    "content": "To use Segment's tracking API: 1. Obtain your write key from your Segment source. 2. Make HTTP POST requests to the Segment API endpoints. 3. For track events, use https://api.segment.io/v1/track. 4. For identify calls, use https://api.segment.io/v1/identify. 5. Include your write key in the Authorization header as Basic base64(writeKey:). 6. Format your payload according to the Segment spec.",
+    "url": "https://segment.com/docs/connections/sources/catalog/libraries/server/http-api/",
+    "platform": "segment"
+  },
+  {
+    "title": "Setting up Segment in a mobile app",
+    "content": "To set up Segment in a mobile app: 1. Add the Segment SDK to your app using your package manager. 2. Initialize the SDK with your write key in your app's initialization code. 3. Start tracking events with analytics.track() and identifying users with analytics.identify(). 4. The SDK will batch and send events to Segment automatically. 5. You can configure options like batch size and flush interval.",
+    "url": "https://segment.com/docs/connections/sources/catalog/libraries/mobile/",
+    "platform": "segment"
+  }
+]
